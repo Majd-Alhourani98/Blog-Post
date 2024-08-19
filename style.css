@@ -69,6 +69,27 @@ code {
   padding: 32px;
 }
 
+.header {
+  background-color: #863ae8;
+  text-align: center;
+  padding: 100px 32px;
+  color: #fff;
+}
+
+.header h1 {
+  margin-bottom: 24px;
+}
+
+.text-box {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+.header .text-box .paragraph {
+  padding: 24px 48px 48px 48px;
+}
+
 .info {
   text-align: center;
   text-transform: uppercase;
